@@ -1,0 +1,55 @@
+h1{
+    background-color: #86add6;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    background-color: #86add6;
+}
+p{
+    font-size: 18px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+.ajuste{
+    display: flex;
+}
+.minhafoto{
+    width: 150px;
+    height: 150px;
+}
+.minhafoto2{
+    width: 225px;
+    height: 225px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+.ajuste2{
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-size: 18px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+td, th{
+    padding: 15px;
+}
+table, td, th{
+    border: 2px solid #86add6;
+    text-align: left;
+}
+table{
+    border-collapse:collapse;
+    width: 100%
+}
+
+tr:hover{
+    background: #86add6;
+}
+th{
+    background-color: #578ec9;
+    color: white
+}
